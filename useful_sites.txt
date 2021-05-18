@@ -1,0 +1,23 @@
+for documentation html : MDN
+for documentation CSS : devdocs.io
+
+1. for practice - codepen.io
+2. color-palette - colorhunt.co
+3. Circular crop - crop-circle.imageonline.co
+
+
+
+
+for flutter
+1. flutter widgets - https://flutter.dev/docs/reference/widgets
+2. UI Designs - https://dribbble.com/
+3. fonts - fonts.google.com
+4. icons & color palette - materialpalette.com
+
+5. flutter packages - https://pub.dev/
+     eg.for sound : audioplayers: ^0.10.0
+	for alert : rflutter_alert
+	for icons : font_awesome_flutter
+
+6. Dart practice - https://dartpad.dev/
+7. to create app icon - https://appicon.co/
